@@ -1,6 +1,6 @@
 
 # Fraud Detection in Imbalanced Data Settings
-![Fraud Detection in Imbalanced Data Settings](Fraud Detection in Imbalanced Data Settings.png)
+![Fraud Detection in Imbalanced Data Settings](https://github.com/ruturaj0626/Fraud-Detection-in-Imbalanced-Data-Settings/blob/main/Fraud%20Detection%20in%20Imbalanced%20Data%20Settings.png)
 
 ## Overview
 
